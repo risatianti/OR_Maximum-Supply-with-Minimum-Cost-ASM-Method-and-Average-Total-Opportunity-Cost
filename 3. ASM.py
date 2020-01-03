@@ -1,5 +1,7 @@
 from prints import line, dfprint, alokasi, delete
-import numpy as np, pandas as pd, os
+import numpy as np
+import pandas as pd
+import os
 
 files = [i for i in os.listdir() if i.endswith('.xlsx')]
 print('PILIH DATA')
