@@ -1,2 +1,2 @@
-# Maximum Supply with Minimum Cost, ASM-Method, and Average Total Oppurtunity Cost
-This project was created in collaboration with my colleague in Operations Research (OR) concentration, Ahmad Dimyati. An analysis of these methods is included in his thesis entitled "Perbandingan Metode dalam Menangani Masalah Transportasi".
+# Solving Transportation Problem using Maximum Supply with Minimum Cost (MSMC), ASM Method, and Average Total Oppurtunity Cost (ATOC)
+Comparison of methods on solving Transportation Problem (TP). This project is in a collaboration with my colleague in Operation Research consentration, Ahmad Dimyati, that will be used in his thesis research: "Perbandingan Metode Maximum Supply with Minimum Cost (MSMC), ASM Method, dan Average Total Opportunity Cost (ATOC) dalam Penyelesaian Masalah Transportasi". 
